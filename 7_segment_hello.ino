@@ -1,3 +1,4 @@
+//changes made
 int segPins[]={8,9,4,2,3,6,7,5}; 
 byte segCode[11][8]=
 {
